@@ -27,7 +27,7 @@ The goal is to make programming concepts less intimidating for anyone just start
 Created by Muhsinah
 Feel free to reach out for collaborations or feedback
 
-## You can view the live site here
+## You can view the live site here https://understanding-loops.netlify.app/
 
 
 
